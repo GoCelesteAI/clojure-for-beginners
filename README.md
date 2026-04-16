@@ -99,6 +99,7 @@ Ring → Reitit routing → `next.jdbc` + SQLite → Dockerized deploy.
 | 01 | Hello REPL                               | [episode01/](episode01/) |
 | 02 | S-Expressions & Syntax                   | [episode02/](episode02/) |
 | 03 | Values, Not Variables (def & let)        | [episode03/](episode03/) |
+| 04 | Functions with defn                      | [episode04/](episode04/) |
 
 More episodes land here as each video ships.
 
