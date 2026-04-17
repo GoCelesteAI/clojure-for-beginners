@@ -105,6 +105,7 @@ Ring → Reitit routing → `next.jdbc` + SQLite → Dockerized deploy.
 | 07 | Vectors                                  | [episode07/](episode07/) |
 | 08 | Lists                                    | [episode08/](episode08/) |
 | 09 | Maps                                     | [episode09/](episode09/) |
+| 10 | Sets                                     | [episode10/](episode10/) |
 
 More episodes land here as each video ships. Episodes with `deps.edn` project structure get their own repo.
 
