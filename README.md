@@ -102,6 +102,7 @@ Ring → Reitit routing → `next.jdbc` + SQLite → Dockerized deploy.
 | 04 | Functions with defn                      | [episode04/](episode04/) |
 | 05 | Conditionals (if, when, cond)            | [episode05/](episode05/) |
 | 06 | Your First Script (deps.edn & -main)    | [clojure-first-script](https://github.com/GoCelesteAI/clojure-first-script) *(own repo — real project)* |
+| 07 | Vectors                                  | [episode07/](episode07/) |
 
 More episodes land here as each video ships. Episodes with `deps.edn` project structure get their own repo.
 
