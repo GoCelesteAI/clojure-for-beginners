@@ -100,6 +100,7 @@ Ring → Reitit routing → `next.jdbc` + SQLite → Dockerized deploy.
 | 02 | S-Expressions & Syntax                   | [episode02/](episode02/) |
 | 03 | Values, Not Variables (def & let)        | [episode03/](episode03/) |
 | 04 | Functions with defn                      | [episode04/](episode04/) |
+| 05 | Conditionals (if, when, cond)            | [episode05/](episode05/) |
 
 More episodes land here as each video ships.
 
