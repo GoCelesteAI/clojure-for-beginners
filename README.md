@@ -107,6 +107,7 @@ Ring → Reitit routing → `next.jdbc` + SQLite → Dockerized deploy.
 | 09 | Maps                                     | [episode09/](episode09/) |
 | 10 | Sets                                     | [episode10/](episode10/) |
 | 11 | The Seq Abstraction                      | [episode11/](episode11/) |
+| 12 | Lazy Sequences                           | [episode12/](episode12/) |
 
 More episodes land here as each video ships. Episodes with `deps.edn` project structure get their own repo.
 
