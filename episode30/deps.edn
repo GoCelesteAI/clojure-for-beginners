@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps  {org.clojure/core.async {:mvn/version "1.6.681"}}
+ :aliases
+ {:run {:main-opts ["-m" "app.core"]}}}
