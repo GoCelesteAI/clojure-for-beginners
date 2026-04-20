@@ -1,0 +1,12 @@
+{
+  "title": "The Little Schemer",
+  "author": "Friedman & Felleisen",
+  "year": 1996,
+  "tags": ["scheme", "recursion", "functional"],
+  "pages": [
+    {"n": 1, "heading": "Toys"},
+    {"n": 11, "heading": "Do It, Do It Again, and Again…"},
+    {"n": 41, "heading": "Cons the Magnificent"},
+    {"n": 79, "heading": "Numbers Games"}
+  ]
+}
